@@ -14,6 +14,6 @@
 
 ## Uninstalling
   To uninstall the browser go to the cloned git repo and run
-  $sudo ./uninstall.sh
+  ```sudo ./uninstall.sh```
 
   You can also delete the cloned git repo if you wish after this
