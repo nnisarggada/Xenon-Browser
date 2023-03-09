@@ -24,4 +24,4 @@
   ```shell
   sudo ./install
   ```
-  If you have deleted the cloned git repo you will have to follow the instructions for **[First Time Installation](#First Time Installation)**
+  If you have deleted the cloned git repo you will have to follow the instructions for **[First Time Installation](#first-time-installation)**
