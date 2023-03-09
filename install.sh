@@ -1,6 +1,7 @@
 #!/bin/sh
 
 python -m pip install pyinstaller
+python -m pip install PySide6
 python -m PyInstaller Xenon-Browser.spec
 mkdir /usr/lib/Xenon-Browser
 cp $PWD/dist/Xenon-Browser /usr/lib/Xenon-Browser/Xenon-Browser
