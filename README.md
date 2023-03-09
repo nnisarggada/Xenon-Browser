@@ -4,11 +4,13 @@
 ## Installation
   **You need to have python installed for this installation to work**
   
-  $git clone https://github.com/nnisarggada/Xenon-Browser \
+  ```shell
+  git clone https://github.com/nnisarggada/Xenon-Browser \
   cd Xenon-Browser/ \
   sudo chmod +x install.sh \
   sudo chmod +x uninstall.sh \
   sudo ./install.sh
+  ```
 
 ## Uninstalling
   To uninstall the browser go to the cloned git repo and run
