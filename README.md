@@ -1,14 +1,14 @@
 # Xenon-Browser
   A simple privacy focused browser that stores NOTHING about you
 
-## Installation
+## Installation (Linux)
   **You need to have python installed for this installation to work**
   
   ```shell
-  git clone https://github.com/nnisarggada/Xenon-Browser \
-  cd Xenon-Browser/ \
-  sudo chmod +x install.sh \
-  sudo chmod +x uninstall.sh \
+  git clone https://github.com/nnisarggada/Xenon-Browser && \
+  cd Xenon-Browser/ && \
+  sudo chmod +x install.sh && \
+  sudo chmod +x uninstall.sh && \
   sudo ./install.sh
   ```
 
