@@ -82,7 +82,7 @@ class MyBrowser():
         self.browser.urlChanged.connect(
             lambda: self.format_url(self.browser.url().toString()))
         self.browser.loadFinished.connect(lambda: self.window.setWindowTitle(
-            "%s | MyBrowser" % self.browser.page().title()))
+            "%s | Xenon - Be Colourless" % self.browser.page().title()))
 
         self.window.setLayout(self.layout)
         self.window.show()
