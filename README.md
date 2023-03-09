@@ -20,5 +20,8 @@
 
   You can also delete the cloned git repo if you wish after this
 ### Re-installation
-  If you have not deleted the cloned git repo, go to the cloned git repo and run ```sudo ./install```
+  If you have not deleted the cloned git repo, go to the cloned git repo and run 
+  ```shell
+  sudo ./install
+  ```
   If you have deleted the cloned git repo you will have to follow the instructions for **First Time Installation**
